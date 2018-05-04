@@ -1,5 +1,5 @@
 -- quick port of the Bunnymark test from https://github.com/pixijs/bunny-mark/tree/master/src
--- CLICK TO ADD BUNNIES
+-- Click or touch to add bunnies.
 
 local random = math.random
 local _bunnyTex = Texture.new("bunny.png") -- bunny texture
