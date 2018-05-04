@@ -1,0 +1,22 @@
+<project>
+ <properties tv_icon="" html5_pack="0" winrt_package="com.yourdomain.yourapp" mouseTouchOrder="0" fps="60" osx_category="5" html5_fbinstant="0" html5_host="" splashScaleMode="0" backgroundColor="#ffffff" winrt_org="GiderosMobile" version_code="1" orientation="0" osx_bundle="com.yourdomain." android_template="1" logicalWidth="1440" logicalHeight="2560" encryptCode="0" packageName="com.yourdomain.yourapp" version="1.0" osx_installerId="" iosDevice="0" splash_h_image="" touchToMouse="1" windowHeight="0" disableSplash="0" app_icon="" autorotation="0" exportMode="0" osx_org="GiderosMobile" splash_v_image="" retinaDisplay="0" build_number="1" mouseToTouch="1" win_org="GiderosMobile" osx_domain="giderosmobile.com" html5_mem="16" vsync="0" scaleMode="0" ios_bundle="com.yourdomain." osx_signingId="" windowWidth="0" win_domain="giderosmobile.com" html5_fbload="100" encryptAssets="0" app_name="" architecture="8">
+  <imageScales/>
+  <plugins/>
+  <exports>
+   <export name="APK">
+    <property name="androidPath" value=""/>
+    <property name="androidSdk" value="27"/>
+    <property name="androidTarget" value="19"/>
+    <property name="androidTools" value="27.0.2"/>
+    <property name="buildApk" value="1"/>
+    <property name="deployApk" value="0"/>
+    <property name="javaPath" value=""/>
+    <property name="keyAlias" value=""/>
+    <property name="keyStore" value=""/>
+    <property name="packageName" value="com.yourdomain.yourapp"/>
+   </export>
+  </exports>
+ </properties>
+ <file source="main.lua"/>
+ <file source="bunny.png"/>
+</project>
