@@ -7,3 +7,5 @@ This is the exported template created from Gideros.
 The "html5-export" folder is the exported html5 version of the benchmark, doesn't seem to work in Chrome but works fine in Edge.
 
 The rest are Gideros project files; you only need bunny.png, bunnymark.gproj and main.lua.
+
+Bunny graphic from https://pixijs.github.io/bunny-mark/
