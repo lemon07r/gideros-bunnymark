@@ -1,7 +1,7 @@
 # Gideros Bunnymark
 Quick Bunnymark Port for Gideros, and the exported Gideros template for Android Studio
 
-Ignore the "androidstudio-export" folder unless you want to compile to an apk with Android Studio.
+Ignore the "androidstudio-export" folder unless you want to compile to an apk from Android Studio.
 This is the exported template created from Gideros. 
 
 The "html5-export" folder is the exported html5 version of the benchmark.
