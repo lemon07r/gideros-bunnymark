@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link href="gideros.css" rel="stylesheet">
     <link href="favicon.png" rel="icon">
-    <title>bunnymark</title>
+    <title>Bunnymark</title>
   </head>
   <body class="fullscreen" style="background-color:#ffffff;">
     <div id="infopane" class="fullscreen flex">
@@ -51,7 +51,7 @@ GIDEROS-FBINSTANT-END -->
     	FBInstant.initializeAsync();
     }
     var progressCur=0;
-    var progressMax=10739930;
+    var progressMax=2459633;
     function downloadProgress(diff) {
     	progressCur+=diff;
 		var pro=100*progressCur/progressMax;
@@ -323,7 +323,7 @@ function intArrayToString(array) {
     } else {
       script.src = filename;
     }
-    script.onload = function() {
+    GiderosAsmJSLoaded = function() {
       setTimeout(function() {
         
           var memoryInitializer = 'gideros.html.mem';

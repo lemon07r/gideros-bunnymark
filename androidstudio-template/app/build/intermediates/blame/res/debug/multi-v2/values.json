@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\src\\main\\res\\values\\theme.xml",
+                    "from": {
+                        "startLines": "2,4",
+                        "startColumns": "0,0",
+                        "startOffsets": "66,141",
+                        "endLines": "2,8",
+                        "endColumns": "73,8",
+                        "endOffsets": "139,371"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "102,179",
+                        "endLines": "3,8",
+                        "endColumns": "76,8",
+                        "endOffsets": "174,409"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "46",
+                        "endOffsets": "97"
+                    }
+                }
+            ]
+        }
+    ]
+}

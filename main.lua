@@ -6,8 +6,8 @@ local _bunnyTex = Texture.new("bunny.png") -- bunny texture
 local bunnies = {}                         -- table holding bunnies
 local nBunnies = 0                         -- number of bunnies
 local isAdding = false                     -- flag, indicates if bunnies should be added
-WIN_WIDTH @ 1440
-WIN_HEIGHT @ 2560
+WIN_WIDTH @ 640
+WIN_HEIGHT @ 1136
 ADD_PER_FRAME @ 500                        -- number of bunnies to be added per frame               
 
 

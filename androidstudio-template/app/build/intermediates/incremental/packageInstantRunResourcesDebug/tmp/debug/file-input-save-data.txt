@@ -1,0 +1,23 @@
+#Internal package file, do not edit.
+#Fri May 04 20:07:49 EDT 2018
+2.base=C\:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\assets\\debug
+0.path=assets/main.lua.jet
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.path=assets/bunny.png
+4.base=C\:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\assets\\debug
+count=5
+2.path=assets/properties.bin.jet
+4.set=ASSET
+3.path=assets/allfiles.txt
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=assets/luafiles.txt.jet
+1.baseType=DIRECTORY
+0.base=C\:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+3.set=ASSET
+1.base=C\:\\Users\\Lamim\\Documents\\GitHub\\gideros-bunnymark\\androidstudio-template\\app\\build\\intermediates\\assets\\debug
+4.baseType=DIRECTORY
+0.set=ASSET
