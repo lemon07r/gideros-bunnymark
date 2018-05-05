@@ -1,4 +1,4 @@
-# gideros-bunnymark
+# Gideros Bunnymark
 Quick Bunnymark Port for Gideros, and the exported Gideros template for Android Studio
 
 Ignore the "androidstudio-export" folder unless you want to compile to an apk with Android Studio.
